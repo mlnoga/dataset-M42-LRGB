@@ -1,20 +1,27 @@
 # The Orion Nebula (M42): Unprocessed LRGB subframes
 
-## Dataset information
+## Subexposures
 
-| Channel | Subexposures |
-|---------|--------------|
-|L        |51 |
-|R        |5  |
-|G        |5  |
-|B        |5  |
+| Channel | Subexposures | Duration per subexposure| Total duration |
+|---------|--------------|-------------------------|----------------|
+|L        |51 | 60s   | 51 min |
+|R        |5  | 180s  | 15 min |
+|G        |5  | 180s  | 15 min |
+|B        |5  | 180s  | 15 min |
+|Total    |66 | -     | 96 min |
 
-Each subexposure has 20 Megapixels at 16 bit per Pixel, or 40 MB.
+* Image size is 5496 x 3672, or 20 Megapixels
+* Storage size is 16 bits per pixel, or 40 MB
+* Image scale is 1.07 arcseconds/pixel
 
-Captured with an ASI 183 mm pro, which has a 12 bit DAC, at -20 Celsius, gain 50 offset 8.
+## Equipment
 
-Imaged with a Takahashi FC 76 DCU, a 0.8x Televue reducer, ASI OAG with ASI 290mm mini guider, ASI 7x36mm filterwheel with Baader LRGB filters.
-
-Mounted on a Vixen GP-D2 with TeenAstro controller on a wooden Berlebach Uni tripod. 
-
-Photographed January 2020 in southern Germany.
+| Item     | Description |
+|----------|-------------|
+| Camera   | ASI 183 mm pro, which has a 12 bit DAC, at -20 Celsius, gain 50 offset 8 |
+| Telescope| Takahashi FC 76 DCU with a 0.8x Televue reducer, at an effective focal length of 456 mm with 76 mm aperture (f/6.0) |
+| Filters  | Baader LRGB filters in an ASI 7x36mm electronic filter wheel |
+| Guider   | ASI 290mm mini guider in ASI OAG |
+| Mount    | Vixen GP-D2 with TeenAstro controller on a wooden Berlebach Uni tripod | 
+| Time     | January 2020 |
+| Location |Southern Germany |
