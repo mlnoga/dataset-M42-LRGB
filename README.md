@@ -1,5 +1,7 @@
 # The Orion Nebula (M42): Unprocessed LRGB subframes
 
+Some sample data for processing with [Nightlight](https://github.com/mlnoga/nightlight).
+
 ## Subexposures
 
 | Channel | Subexposures | Duration per subexposure| Total duration |
