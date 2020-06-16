@@ -25,3 +25,7 @@
 | Mount    | Vixen GP-D2 with TeenAstro controller on a wooden Berlebach Uni tripod | 
 | Time     | January 2020 |
 | Location |Southern Germany |
+
+## License
+
+This dataset is Copyright (C) 2020 by Markus Noga. It licensed under [CC BY-NC-SA 4.0CC](https://creativecommons.org/licenses/by-nc-sa/4.0). 
