@@ -28,4 +28,6 @@
 
 ## License
 
-This dataset is Copyright (C) 2020 by Markus Noga. It is licensed under [CC BY-NC-SA 4.0CC](https://creativecommons.org/licenses/by-nc-sa/4.0). 
+This dataset is Copyright (C) 2020 by Markus Noga. All rights reserved.
+
+It is licensed under [CC BY-NC-SA 4.0CC](https://creativecommons.org/licenses/by-nc-sa/4.0).
