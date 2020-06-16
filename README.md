@@ -2,6 +2,8 @@
 
 Some sample data for processing with [Nightlight](https://github.com/mlnoga/nightlight).
 
+![Result miniature](./M42_Orion_LRGB_1024.jpg)
+
 ## Subexposures
 
 | Channel | Subexposures | Duration per subexposure| Total duration |
